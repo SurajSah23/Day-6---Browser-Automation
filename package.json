@@ -1,0 +1,17 @@
+{
+  "name": "daigram",
+  "version": "1.0.0",
+  "main": "scraper.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.3.1"
+  }
+}
